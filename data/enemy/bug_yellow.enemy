@@ -1,0 +1,7 @@
+[stats]
+size=30
+
+[move]
+speed=4
+loop=1
+trigger=0

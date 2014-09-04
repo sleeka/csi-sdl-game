@@ -1,0 +1,10 @@
+[stats]
+size=117
+
+[move]
+speed=3
+loop=0
+trigger=0
+
+[special]
+dodgable=0

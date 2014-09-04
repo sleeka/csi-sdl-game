@@ -1,0 +1,371 @@
+THEME
+underwater
+
+SIZE
+35 43
+
+START
+200 100
+
+PLAYER
+pufferfish
+
+NEXTMAP
+cavern
+
+PAR_TIME
+23
+
+TERRAIN
+15 15 10 22 22 13 15 15 15 15 15 15 15 36 00 00 35 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 
+26 30 27 00 00 24 25 22 22 22 13 15 15 17 08 08 20 15 15 10 22 22 22 13 15 15 15 15 15 15 15 10 22 13 15 
+00 00 00 00 00 00 00 00 00 00 12 22 13 15 15 15 15 10 26 27 00 00 00 12 22 13 15 15 10 22 22 11 00 12 13 
+00 00 00 00 00 00 00 00 00 00 00 00 24 30 30 30 30 27 00 00 00 00 00 00 00 24 30 30 27 00 00 00 00 00 14 
+29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 
+36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 
+17 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 19 05 06 00 00 00 00 00 00 28 20 
+15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 19 08 20 15 17 08 08 05 06 00 00 31 15 
+15 15 17 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 04 20 15 10 22 22 13 15 15 16 00 00 31 15 
+22 13 15 15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 19 20 15 10 22 11 00 00 14 15 15 16 00 00 31 15 
+00 12 13 15 15 17 08 05 33 33 06 00 00 00 00 00 03 04 08 20 15 10 11 00 00 00 07 20 15 15 16 00 00 31 15 
+00 00 12 13 15 15 15 15 15 15 17 08 08 08 08 08 20 15 15 15 10 11 00 00 19 08 20 15 15 15 16 00 00 49 13 
+00 00 00 14 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 10 11 00 03 04 20 15 15 15 15 10 11 00 00 00 14 
+00 00 00 14 15 15 10 22 13 15 15 15 15 15 15 15 10 22 22 11 00 19 20 15 15 15 15 15 10 11 00 00 00 00 14 
+05 04 08 20 10 26 27 00 12 13 15 15 15 15 10 26 27 00 00 03 04 20 15 15 10 22 22 26 27 00 00 00 00 00 14 
+15 15 15 10 11 00 00 00 00 24 25 13 15 15 17 05 06 00 19 20 15 15 15 10 11 00 00 00 00 00 00 00 00 28 20 
+15 15 10 11 00 00 00 00 00 00 00 14 15 15 15 15 17 08 20 15 15 15 10 11 00 00 00 00 00 00 00 00 00 35 15 
+15 10 11 00 00 00 00 00 00 00 00 14 15 15 15 15 15 15 15 15 10 22 11 00 00 00 00 00 00 00 00 00 19 20 15 
+15 17 29 00 00 00 00 00 00 00 00 12 13 15 15 15 15 15 10 26 27 00 00 00 00 00 00 00 00 00 00 00 14 15 15 
+15 15 36 00 00 00 00 00 00 00 00 00 42 15 15 15 15 15 43 00 00 00 00 00 00 00 00 00 00 00 00 28 20 15 15 
+15 15 17 05 06 00 00 00 00 00 00 00 49 13 15 15 15 10 50 00 00 00 00 00 00 00 00 00 00 00 00 35 15 15 15 
+25 13 15 15 17 18 00 00 00 00 00 00 00 24 25 22 26 27 00 00 00 00 00 00 00 00 00 00 00 00 00 14 15 15 15 
+00 14 15 15 15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 28 20 15 15 15 
+04 20 15 15 15 15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 31 15 15 15 15 
+15 15 10 22 13 15 15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 35 15 15 15 15 
+15 15 43 00 12 13 15 15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 19 08 08 08 20 15 15 15 15 
+15 10 50 00 00 14 15 15 15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 03 33 04 41 22 13 15 15 15 15 15 15 
+15 16 00 00 28 20 15 15 15 15 17 29 00 00 00 00 00 00 00 00 03 33 04 20 10 26 27 00 12 13 15 15 15 15 15 
+10 11 00 00 31 15 15 15 15 15 15 32 00 00 00 00 00 19 08 08 20 10 22 22 11 00 00 00 00 14 15 15 15 15 15 
+16 00 00 00 35 15 15 15 15 15 10 50 00 00 00 28 08 20 15 10 26 27 00 00 00 00 03 06 19 20 15 15 15 15 15 
+17 18 00 19 20 15 15 15 15 10 11 00 00 00 00 35 15 10 26 27 00 19 08 08 08 08 20 17 20 15 10 22 22 22 13 
+15 17 08 20 15 15 15 10 22 11 00 00 00 00 00 14 15 43 00 00 19 20 15 15 15 15 15 10 26 30 27 00 00 00 52 
+15 15 15 15 10 22 26 27 00 00 00 00 00 00 28 20 10 50 00 19 20 15 15 15 15 10 22 11 00 00 00 00 00 00 52 
+15 15 10 22 11 00 00 00 00 00 00 00 00 00 35 15 17 05 04 20 15 15 15 10 26 27 00 00 00 00 00 00 00 00 52 
+15 15 43 00 00 00 00 00 00 00 00 00 00 19 20 15 15 15 15 10 22 22 22 11 00 00 00 00 00 00 00 00 03 04 20 
+15 15 32 00 00 00 00 00 00 00 00 00 00 12 13 15 15 15 10 11 00 00 00 00 00 00 00 00 00 00 00 19 20 15 15 
+15 10 50 00 00 00 00 00 00 00 00 00 00 00 24 25 22 22 11 00 00 00 00 00 00 00 00 00 00 00 19 20 15 15 15 
+15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 19 20 15 15 15 15 
+15 15 17 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 04 08 20 15 15 15 15 15 
+25 13 15 15 17 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 15 15 15 15 15 15 15 15 
+00 14 15 15 15 17 08 08 18 00 00 00 00 00 00 00 00 00 00 00 00 19 08 08 08 08 20 15 15 15 15 15 15 15 15 
+00 12 13 15 15 15 15 15 17 05 06 00 00 00 00 00 00 00 03 04 08 20 15 15 15 15 15 15 15 15 15 15 15 15 15 
+00 00 42 15 15 15 15 15 15 15 17 08 08 08 08 08 08 08 20 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 
+
+OBJECT_LAYER
+background
+DEC_water_bg1 862 94
+DEC_seaweed_thick 601 867
+DEC_seaweed_thick 510 900
+DEC_seaweed_thick 861 773
+DEC_seaweed_thick 898 772
+DEC_seaweed_thick 935 770
+DEC_seaweed_thick 884 1189
+DEC_seaweed_thick 776 1251
+DEC_seaweed_thick 714 1254
+DEC_seaweed_thick 529 1314
+DEC_seaweed_thick 469 1315
+DEC_seaweed_thick 395 1315
+DEC_seaweed_thick 215 1251
+DEC_seaweed_thick 351 1315
+DEC_seaweed_thick 630 1288
+DEC_seaweed_thick 759 819
+DEC_seaweed_thick 921 197
+DEC_seaweed_thick 898 195
+DEC_seaweed_thick 856 195
+DEC_seaweed_thick 725 196
+DEC_seaweed_thick 767 928
+DEC_seaweed_thick 738 928
+DEC_seaweed_thick 358 320
+DEC_seaweed_thick 421 320
+DEC_seaweed_thick 482 320
+DEC_seaweed_thick_180 519 113
+DEC_seaweed_thick_180 466 112
+DEC_seaweed_thick_180 418 114
+DEC_seaweed_thick 261 301
+DEC_seaweed_thick 296 304
+DEC_seaweed_thick_90 990 277
+DEC_seaweed_thick_90 991 336
+DEC_seaweed_thick_270 1039 265
+DEC_seaweed_thick_270 1040 304
+DEC_seaweed_thick_270 1059 153
+DEC_seaweed_thick_270 1060 106
+DEC_seaweed_sparse_180 430 684
+DEC_seaweed_sparse_180 526 687
+DEC_seaweed_thick_180 450 694
+DEC_seaweed_thick_180 494 698
+DEC_seaweed_thick_180 553 666
+DEC_seaweed_thick_180 609 599
+DEC_seaweed_thick_180 799 476
+DEC_seaweed_thick_180 879 463
+DEC_seaweed_thick 798 813
+DEC_seaweed_thick 690 847
+DEC_seaweed_thick_180 256 1022
+DEC_seaweed_thick_90 64 1164
+DEC_seaweed_thick 105 1199
+DEC_seaweed_thick 179 1250
+DEC_seaweed_thick 289 1292
+DEC_seaweed_thick 587 1300
+DEC_seaweed_thick_90 368 891
+DEC_seaweed_thick_270 474 930
+DEC_seaweed_thick_270 460 956
+DEC_seaweed_thick_270 451 991
+DEC_seaweed_thick_270 435 1042
+DEC_seaweed_thick_180 465 1163
+DEC_seaweed_thick_180 505 1177
+DEC_seaweed_thick_180 541 1181
+DEC_seaweed_thick_180 644 1116
+DEC_seaweed_thick_180 678 1117
+DEC_seaweed_thick_180 707 1119
+DEC_seaweed_thick_180 759 1082
+DEC_seaweed_thick_180 788 1060
+DEC_seaweed_thick_180 826 1052
+DEC_seaweed_thick_180 886 1017
+DEC_seaweed_thick_180 928 1006
+DEC_seaweed_thick_180 986 989
+DEC_seaweed_thick 847 1205
+DEC_seaweed_thick_180 156 1054
+DEC_seaweed_thick_180 204 1039
+DEC_seaweed_thick_180 307 492
+DEC_seaweed_thick_180 166 464
+DEC_seaweed_thick 90 617
+DEC_seaweed_thick 125 637
+DEC_seaweed_thick_180 216 446
+DEC_seaweed_thick_180 545 439
+DEC_seaweed_thick_180 733 318
+DEC_seaweed_thick_180 807 284
+DEC_seaweed_thick 539 482
+DEC_seaweed_thick 798 322
+DEC_seaweed_thick_270 995 573
+DEC_seaweed_thick_270 1057 472
+DEC_seaweed_thick_270 1034 507
+DEC_seaweed_thick_270 989 604
+DEC_seaweed_thick_270 945 729
+DEC_seaweed_thick 660 848
+DEC_seaweed_thick_180 706 60
+DEC_seaweed_thick_180 674 60
+DEC_seaweed_thick_180 637 61
+DEC_seaweed_thick 577 293
+DEC_seaweed_thick 809 175
+DEC_seaweed_thick 536 303
+DEC_seaweed_thick 203 295
+DEC_seaweed_thick 108 240
+DEC_seaweed_thick_180 233 60
+DEC_seaweed_thick_180 280 58
+DEC_seaweed_thick_180 345 88
+DEC_seaweed_thick_180 386 100
+DEC_seaweed_thick_180 558 92
+DEC_seaweed_thick_180 597 73
+DEC_seaweed_thick_180 125 26
+DEC_seaweed_thick_180 81 27
+DEC_seaweed_thick_180 178 46
+DEC_seaweed_sparse_180 913 95
+DEC_seaweed_thick_90 78 1120
+DEC_seaweed_thick_90 85 1091
+DEC_seaweed_thick_180 1028 991
+DEC_seaweed_thick_180 1064 994
+DEC_seaweed_thick 1037 1075
+DEC_seaweed_thick 998 1109
+DEC_seaweed_thick 953 1153
+DEC_seaweed_thick_180 425 1138
+/background
+
+OBJECT_LAYER
+foreground
+DEC_Exit 1088 1056
+DEC_Exit 1088 994
+DEC_Exit 1088 1024
+DEC_fishbones_01 1038 838
+DEC_fishbones_02 245 903
+DEC_fishbones_03 1030 1203
+DEC_fishbones_03 909 271
+DEC_fishbones_01 386 421
+DEC_fishbones_02 104 316
+DEC_seaweed_sparse 877 192
+DEC_seaweed_sparse 881 768
+DEC_seaweed_sparse 920 768
+DEC_seaweed_sparse 580 864
+DEC_seaweed_sparse 375 1312
+DEC_seaweed_sparse 421 1312
+DEC_seaweed_sparse 486 1312
+DEC_seaweed_sparse 546 1312
+DEC_seaweed_sparse 736 1248
+DEC_seaweed_sparse 796 1248
+DEC_fishbones_02 968 1313
+DEC_seaweed_sparse 798 928
+DEC_seaweed_sparse 372 320
+DEC_seaweed_sparse 468 320
+DEC_seaweed_sparse 410 320
+DEC_seaweed_sparse 276 303
+DEC_seaweed_sparse_180 440 114
+DEC_seaweed_sparse_180 489 114
+DEC_seaweed_sparse_180 874 113
+DEC_seaweed_sparse_180 827 113
+DEC_seaweed_sparse_270 1038 243
+DEC_seaweed_sparse_270 1037 288
+DEC_seaweed_sparse_270 1037 321
+DEC_seaweed_sparse_90 991 349
+DEC_seaweed_sparse_90 991 312
+DEC_seaweed_sparse_90 992 257
+DEC_seaweed_sparse_270 1058 129
+DEC_seaweed_sparse_270 1057 392
+DEC_seaweed_sparse_270 1056 441
+DEC_seaweed_sparse_270 962 664
+DEC_seaweed_sparse_180 832 480
+DEC_seaweed_sparse_180 668 576
+DEC_seaweed_sparse_180 108 30
+DEC_seaweed_sparse_180 260 64
+DEC_seaweed_sparse_180 651 63
+DEC_seaweed_sparse_180 697 63
+DEC_seaweed_sparse 672 847
+DEC_seaweed_sparse_180 225 448
+DEC_seaweed_sparse_180 831 288
+DEC_seaweed_sparse_270 320 528
+DEC_seaweed_sparse_180 951 95
+DEC_seaweed_sparse_180 1026 62
+DEC_seaweed_sparse_180 707 925
+DEC_starfish_blue 508 1107
+DEC_starfish_orange 863 813
+DEC_fishbones_02 722 1025
+/foreground
+
+ENEMIES
+urchin
+point=133,639
+
+fish_loops
+point=327,571
+point=207,671
+
+fish_fast
+point=331,266
+point=547,266
+point=332,266
+
+fish_fast
+point=333,1260
+point=467,1288
+point=333,1262
+
+fish_fast
+point=789,560
+point=723,623
+point=839,618
+point=791,561
+
+fish_normal
+point=115,852
+point=83,943
+point=116,854
+
+urchin
+point=767,1265
+
+urchin
+point=913,1202
+
+urchin_180
+point=668,1134
+
+urchin_180
+point=846,1071
+
+urchin
+point=461,1328
+
+urchin_90
+point=385,920
+
+urchin_270
+point=1072,435
+
+urchin_270
+point=1073,164
+
+urchin_270
+point=977,690
+
+urchin
+point=916,786
+
+urchin
+point=686,863
+
+urchin_180
+point=244,462
+
+urchin_270
+point=336,530
+
+urchin
+point=530,327
+
+urchin_180
+point=45,65
+
+urchin_90
+point=40,174
+
+fish_loops
+point=24,103
+
+fish_normal
+point=772,734
+point=602,818
+point=771,733
+
+fish_fast
+point=115,570
+point=158,527
+point=115,571
+
+fish_normal
+point=235,483
+point=180,504
+point=233,482
+
+/ENEMIES
+
+CATCHERS
+CATCHER_blue 190 187
+CATCHER_blue 576 205
+CATCHER_blue 1020 162
+CATCHER_blue 1023 404
+CATCHER_blue 948 544
+CATCHER_blue 653 687
+CATCHER_blue 273 1149
+CATCHER_blue 445 798
+CATCHER_blue 548 1277
+CATCHER_blue 837 1146
+CATCHER_blue 847 703
+CATCHER_blue 405 990
+CATCHER_blue 334 709
+/CATCHERS
+
+ITEMS
+ITEM_sushi1 129 127
+ITEM_sushi2 316 159
+ITEM_sushi2 470 158
+ITEM_sushi2 745 149
+ITEM_sushi2 904 148
+ITEM_sushi2 874 544
+ITEM_lollipop 204 559
+ITEM_sushi1 148 584
+ITEM_sushi1 260 519
+ITEM_sushi2 190 1101
+ITEM_sushi2 133 1155
+ITEM_sushi2 202 1206
+ITEM_sushi2 624 1219
+ITEM_sushi2 716 1173
+ITEM_sushi1 966 1060
+ITEM_sushi2 388 1213
+/ITEMS
